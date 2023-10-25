@@ -1,3 +1,7 @@
+---
+title: Home
+layout: home
+---
 # About Us
 The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
 

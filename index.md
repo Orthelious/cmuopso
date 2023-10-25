@@ -2,34 +2,21 @@
 title: Home
 layout: home
 ---
+# About Us
+The open source programs office (OSPO) raises awareness and capacity for open source software to better develop, manage, curate, and share it for research, education, translation, and broader impact.
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+As a community convener and center of competency, the OSPO aims to build open source capacity within CMU and beyond, leveraging the institution's research, teaching, and policy expertise to maximize its social impact on a global scale.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## OPSO Core Objectives
+- Explore open source software and its impact as an underlying component for automated science.
+- Examine how both US Federally Funded Research and Development Centers (FFRDCs) and University Affiliated Research Centers (UARCs) can develop open source policies, processes and programs.
+- Support wider university services such as student internships and open source educational efforts.
+- Build the university’s capacity to curate, manage and share open source software.
 
-More specifically, the created site:
+## Service Details
+The OSPO offers a range of services to assist students, staff, and faculty at different stages of developing, licensing, documenting, and promoting open source projects. These services may include, but are not limited to:
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+- Introductory education on best practices for open source development and connecting to wider open source communities.
+- One-on-one advising sessions for guidance on licensing and available university resources and support. Collaboration and partnership development between internal and external stakeholders on open source projects and initiatives.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+We welcome you to schedule a consultation with us or submit any questions to our office email address: [ospo@andrew.cmu.edu](mailto:ospo@andrew.cmu.edu)
