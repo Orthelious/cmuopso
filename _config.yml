@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Open Source Program Office
+description: The homepage for Carnegie Mellon University's Open Source Program Office
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://orthelious.github.io/cmuospo
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/orthelious/cmuospo
